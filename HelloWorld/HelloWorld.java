@@ -8,6 +8,7 @@ class HelloWorld {
         System.out.println("Hello World");
         System.out.println("nscc"); // extra line
         System.out.println("Prog1400");
+        System.out.println("Maher");
         }
 
     }
